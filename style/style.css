@@ -497,13 +497,3 @@ h1{
     right: 0;
 }
 
-/*image section*/
-.image-cards{
-    height: 1160px;
-}
-.image-card__1{
-    width: 200px;
-}
-.card-image{
-    width: 20px;
-}
