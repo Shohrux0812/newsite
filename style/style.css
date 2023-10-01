@@ -113,7 +113,7 @@ a{ text-decoration: none;
 /*Creat section*/
 
 .container-image{
-    background-image: url(images.jfif);
+    background-image: url(../img/images.jfif);
     width: 100%;
     height: 616.5px;
 }
@@ -495,5 +495,22 @@ h1{
     position: absolute;
     top:25%;
     right: 0;
+    
 }
 
+.my-div-class{
+    background-color:bisque;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+}
+.input_js{
+    width: 400px;
+    height: 30px;
+    margin: 10px auto;
+    display: block;
+
+}
